@@ -21,8 +21,8 @@ import io.swagger.annotations.ApiModelProperty;
 @SuppressWarnings("serial")
 public class DataSourceRequest
 	implements Serializable{
-    /*defdfd22222222222222222222*/  
-    private StringBuilder sql;
+
+	private StringBuilder sql;
     
     @ApiModelProperty(notes = "номер страницы", allowEmptyValue = false, required=true, position = 0)
 	private int page;
