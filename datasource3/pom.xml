@@ -15,11 +15,11 @@
   </properties>
 
 	<scm>
-	   <connection>scm:git:https://github.com/IgorKondratyuk/datasource.git</connection>
-	   <url>http://github.com/IgorKondratyuk/datasource</url>
+	   <connection>scm:git:https://github.com/IgorKondratyuk/datasource3.git</connection>
+	   <url>http://github.com/IgorKondratyuk/datasource3</url>
 	   <!-- <developerConnection>scm:git:https://github.com/IgorKondratyuk/datasource.git</developerConnection> -->
 	  <!--<tag>HEAD</tag>-->
-    <developerConnection>scm:git:https://github.com/IgorKondratyuk/datasource.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/IgorKondratyuk/datasource3.git</developerConnection>
      <tag>${version}</tag>
   </scm>
 

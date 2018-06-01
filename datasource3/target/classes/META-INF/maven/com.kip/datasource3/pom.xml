@@ -3,7 +3,7 @@
 
   <groupId>com.kip</groupId>
   <artifactId>datasource3</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>datasource3</name>
@@ -15,12 +15,12 @@
   </properties>
 
 	<scm>
-	   <connection>scm:git:https://github.com/IgorKondratyuk/datasource.git</connection>
-	   <url>http://github.com/IgorKondratyuk/datasource</url>
+	   <connection>scm:git:https://github.com/IgorKondratyuk/datasource3.git</connection>
+	   <url>http://github.com/IgorKondratyuk/datasource3</url>
 	   <!-- <developerConnection>scm:git:https://github.com/IgorKondratyuk/datasource.git</developerConnection> -->
 	  <!--<tag>HEAD</tag>-->
-    <developerConnection>scm:git:https://github.com/IgorKondratyuk/datasource.git</developerConnection>
-     <tag>0.0.1-SNAPSHOT</tag>
+    <developerConnection>scm:git:https://github.com/IgorKondratyuk/datasource3.git</developerConnection>
+     <tag>${version}</tag>
   </scm>
 
 	<repositories>
