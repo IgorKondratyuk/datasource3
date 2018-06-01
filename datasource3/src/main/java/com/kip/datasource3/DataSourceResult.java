@@ -8,6 +8,7 @@ public class DataSourceResult
 	implements Serializable{
     
 	private long total;
+	
     
     private List<?> data;
     
