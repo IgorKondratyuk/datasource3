@@ -12,7 +12,6 @@ public class DataSourceResult
     
     private List<?> data;
     
-    
     public long getTotal() {
         return total;
     }
